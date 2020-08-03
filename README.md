@@ -6,6 +6,8 @@
 
 ![IMG_20200803_074602](https://user-images.githubusercontent.com/46747652/89136409-c579f380-d55d-11ea-9208-d558258a7581.jpg)
 
+<h3>Installing</h3>
+
 ```java
 $ apt install git
 $ apt install python2
