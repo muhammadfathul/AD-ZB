@@ -11,7 +11,7 @@
 ```java
 $ apt install git
 $ apt install python2
-$ git clone https://github.com/muhammadfathul/AD-ZB
+$ git clone https://github.com/ArroKM/AD-ZB
 $ cd AD-ZB
 $ python2 auto.py
 ```
